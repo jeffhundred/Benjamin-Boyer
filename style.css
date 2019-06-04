@@ -112,6 +112,8 @@ header {
     width: 100%;
     height: 100px;
     background-color: #fff;
+    position: fixed;
+    top: 0;
 }
 
 header .header-title {
@@ -275,6 +277,7 @@ footer {
     /* HEADER AND BANNER */
     header {
         height: 50px;
+        position: static;
     }
 
     header .header-title{ 
