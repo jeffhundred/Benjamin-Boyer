@@ -470,7 +470,7 @@ footer {
     /* FOOTER */
 
     footer {
-
+        position: bottom;
     }
 
     .footer-links-1 {
